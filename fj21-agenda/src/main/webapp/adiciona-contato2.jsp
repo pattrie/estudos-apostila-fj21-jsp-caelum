@@ -5,14 +5,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-<%--    <link href="webjars/jquery-ui/1.12.1/jquery-ui.css" rel="stylesheet">--%>
-<%--    <script src="webjars/jquery-ui/1.12.1/jquery-ui.js"/>--%>
-<%--    <script src="webjars/jquery/3.5.0/jquery.js"/>--%>
-
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <link rel="stylesheet" href="/resources/demos/style.css">
-    <script src="https://code.jquery.com/jquery-1.12.4.js"/>
-    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"/>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <title>Adiciona Contato Exercício</title>
 </head>
 <body>
